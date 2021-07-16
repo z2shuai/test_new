@@ -1,0 +1,1 @@
+[{"Name": "AndroidSpy.jar", "MainClass": "com.bytest.stub.AppSpy", "Method": "run", "Args": ["$ProcessName"], "LoadDelay": 500, "InnerDriver": false}]
